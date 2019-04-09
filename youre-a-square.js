@@ -1,3 +1,0 @@
-var isSquare = function(n){
-
-}
